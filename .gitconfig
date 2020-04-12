@@ -1,0 +1,17 @@
+[color]
+	ui = auto
+[user]
+	name = xeusteerapat
+	email = xeus085@gmail.com
+[alias]
+	a = add
+    s = status
+    d = diff
+    co = checkout
+    br = branch
+	cane = commit --amend --no-edit
+    pl = pull
+    pr = pull --rebase
+    ps = push
+    cm = commit
+    last = log -1 HEAD
